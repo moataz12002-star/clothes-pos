@@ -1,0 +1,27 @@
+{
+  "name": "نظام إدارة محل الملابس",
+  "short_name": "محل الملابس",
+  "description": "إدارة مخزون ومبيعات وتقفيل يومية — تطوير أكاديمية آفاق",
+  "start_url": "./",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#ffffff",
+  "theme_color": "#1f2a44",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "id": "./",
+  "scope": "./"
+}
